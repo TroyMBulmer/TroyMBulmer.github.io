@@ -1,34 +1,33 @@
 <style>
-	body{
-		background-color: #009933;
-	}
 	blockquote{margin: 0;}
 	blockquote p {padding: 15px; background: #eee; border-radius: 5px;}
 	blockquote p::before{content: '\201C';}
 	blockquote p::after{content: '\201D';}
+	
 	
 	ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
-}
+  background-color: #660066;
+	}
 
-li {
+	li {
   float: left;
-}
+	}
 
-li a {
+	li a {
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-}
+	}
 
 
-li a:hover {
+	li a:hover {
   background-color: #111;
+	}
 		
 	</style>
