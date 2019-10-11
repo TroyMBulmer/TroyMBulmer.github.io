@@ -31,5 +31,11 @@
 	}
 	
 	
+	.border {
+		height: 300px;
+		width: 600px;
+		background-color: lightblue;
+		border: solid;
 		
+	}
 	</style>
